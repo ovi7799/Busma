@@ -1,0 +1,75 @@
+@media only screen and (max-width: 1200px) {
+    .contact-section-box-2{
+        margin-top: 5% !important;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .navbar-menu {
+        margin-left: 0;
+    }
+    .document-icon{
+        font-size: 30px;
+    }
+    .phone-icon{
+        font-size: 20px;
+    }
+    .phone-icon-text{
+        font-size: 12px;
+    }
+    .phone-icon-text-span{
+        font-size: 20px;
+    }
+    .future-section-box{
+        padding: 0.1%;
+        height: auto;
+    }
+}
+
+@media only screen and (max-width: 774px) {
+    .about-section-box-2 {
+        margin-top: 5%;
+    }
+
+    .about-section-pic {
+        width: 30%;
+        margin-top: -8%;
+    }
+
+    .about-section-main-pic {
+        height: 450px;
+    }
+
+    .about-section-pic-box {
+        margin-left: 2%;
+        margin-top: -47%;
+        width: 50%;
+    }
+    .document-icon{
+        font-size: 50px;
+    }
+    .phone-icon{
+        font-size: 50px;
+    }
+    .phone-icon-text{
+        font-size: 16px;
+    }
+    .phone-icon-text-span{
+        font-size: 25px;
+    }
+    .delivery-time-flex-pic{
+        height: 350px;
+    }
+    .delivery-time-pic{
+        padding: 3% !important;
+    }
+    .future-section-box{
+        padding: 0.1%;
+        height: auto;
+    }
+    .contact-section-box-2{
+        padding: 5% !important;
+    }
+}
+
+@media only screen and (max-width: 421px) {}
